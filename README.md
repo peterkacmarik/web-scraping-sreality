@@ -29,3 +29,7 @@ This script was written as part of a web scraping exercise.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 If you have any questions or suggestions for improving this script, feel free to open an [issue](https://github.com/peterkacmarik/web-scraping-sreality/issues) or submit a [pull request](https://github.com/peterkacmarik/web-scraping-sreality/pulls).
+
+**Note:**
+
+This script is for educational purposes only. Be mindful of Daft.ie's terms of service when scraping their website.
