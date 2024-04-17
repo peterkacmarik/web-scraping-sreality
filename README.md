@@ -28,4 +28,4 @@ This script was written as part of a web scraping exercise.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-If you have any questions or suggestions for improving this script, feel free to open an [issue](https://github.com/peterkacmarik/web-scraping-sreality/issues) or submit a [pull request](https://github.com/yourusername/yourproject/pulls).
+If you have any questions or suggestions for improving this script, feel free to open an [issue](https://github.com/peterkacmarik/web-scraping-sreality/issues) or submit a [pull request](https://github.com/peterkacmarik/web-scraping-sreality/pulls).
